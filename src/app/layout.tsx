@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "DesignMela",
-  description: "A one-stop solution for digital assets",
+  description: "A one-stop shop for digital assets",
 };
 
 export default function RootLayout({
